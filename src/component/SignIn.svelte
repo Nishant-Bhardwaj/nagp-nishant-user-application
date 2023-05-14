@@ -46,7 +46,7 @@
     <div>
         <label>
             <h5><b>password : &nbsp;</b></h5>
-            <input type="text" bind:value={password} class="in"/>
+            <input type="password" bind:value={password} class="in"/>
         </label>
     </div>
 
